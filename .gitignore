@@ -1,0 +1,10 @@
+binu/
+align_dataset/
+combined_analysis/
+vertical_analysis/
+img/
+label_filtered_t.csv
+*.bin
+*.html
+__pycache__/
+.DS_Store
